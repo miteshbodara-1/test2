@@ -2,17 +2,16 @@
 #include <stdio.h>
 
 int main() {
-    int n = 29;
+   	int n = 29;
 
     int cnt = 0;
 
-    // If number is less than/equal to 1,
-    // it is not prime
+    
     if (n <= 1)
         printf("%d is NOT prime\n", n);
     else {
 
-        // Check for divisors from 1 to n
+        \\this code is prime or not prime check.
         for (int i = 1; i <= n; i++) {
 
             // Check how many number is divisible
