@@ -22,7 +22,7 @@ int main() {
         }
 
         // If n is divisible by more than 2 numbers
-        // then it is not prime
+        // then it is not prime how to check 
         if (cnt > 2)
             printf("%d is NOT prime\n", n);
 
