@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//this code prime or not prime//
 int main()
 {
 
