@@ -15,7 +15,8 @@ int main() {
         for (int i = 1; i <= n; i++) {
 
             // Check how many number is divisible
-            // by n
+            this line n number type and this check prime or not prime 
+
             if (n % i == 0)
                 cnt++;
         }
